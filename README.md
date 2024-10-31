@@ -5,3 +5,4 @@ Logbook
 30.10.2024, 2h, Cisco Introduction to Cybersecurity → Chapter 2, Quiz done
 30.10.2024, 2h, Cybersecurity lesson → Online lecture
 30.10.2024, 2h, Cisco Introduction to Cybersecurity → Chapter 3, Quiz done
+31.10.2024, ...h, Cisco Introduction to Cybersecurity → Chapter 4, Quiz done 07:50 -
