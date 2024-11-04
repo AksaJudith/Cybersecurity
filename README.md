@@ -11,8 +11,8 @@
 | 31.10.2024  | 2 | Cisco Introduction to Cybersecurity | Chapter 4, Quiz done |
 | 31.10.2024  | 1 | Cisco Introduction to Cybersecurity | Chapter 5, Quiz done |
 | 31.10.2024  | 1 | Cisco Introduction to Cybersecurity | Course Final Exam |
-| 04.11.2024 | 2 | Cybersecurity lecture, intro to PortSwigger | Online lecture |
-| ------------- | ------------- | ------------- | ------------- |
+| 04.11.2024 | 1,5 | Cybersecurity lecture, intro to PortSwigger | Online lecture |
+| 04.11.2024 | 0,5 | PortSwigger | Tilin luonti ja tutustuminen |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
