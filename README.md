@@ -14,7 +14,7 @@
 | 04.11.2024 | 1,5 | Cybersecurity lecture, intro to PortSwigger | Online lecture |
 | 04.11.2024 | 0,5 | PortSwigger | Tilin luonti ja tutustuminen |
 | 05.11.2024 | 2 | Portswigger, SQL injection and Burp Suite | SQL injection lab 1 & lab 2 |
-| 08.11.2024 | 1,5 | Portswigger, Burp, Authentication | Authentication vulnerabilities lab 1 & lab 2 |
+| 08.11.2024 | 2 | Portswigger, Burp, Authentication | Authentication vulnerabilities lab 1 & lab 2 |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
