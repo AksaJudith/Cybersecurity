@@ -16,9 +16,9 @@
 | 05.11.2024 | 2 | Portswigger, SQL injection and Burp Suite | SQL injection lab 1 & lab 2 |
 | 08.11.2024 | 2 | Portswigger, Burp, Authentication | Authentication vulnerabilities lab 1 & lab 2 |
 | 08.11.2024 | 2 | Portswigger, Burp, Access Control | Access Control lab 1 & lab 2 |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
+| 11.11.2024 | 2 | Cybersecurity lecture, intro to Booking System Project | Online lecture |
+| 12.11.2024 | 1 | Network Security | Self study |
+| 14.11.2024 | 3 | Network Security, attacks and mitigation | Self Study |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
