@@ -22,6 +22,6 @@
 | 16.11.2024 | 5 | Bookingsystem, VSC, ZAP, Docker, PS | First ZAP report |
 | 18.11.2024 | 1 | Bookingsystem, phase 1 | Phase 1 task |
 | 19.11.2024 | 1 | Bookingsystem, phase 1 | Phase 1 task |
-| ------------- | ------------- | ------------- | ------------- |
+| 20.11.2024 | 2 | Bookingsystem, phase 1 | Phase 1 task, First Registration report |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
