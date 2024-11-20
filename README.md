@@ -19,7 +19,10 @@
 | 11.11.2024 | 2 | Cybersecurity lecture, intro to Booking System Project | Online lecture |
 | 12.11.2024 | 1 | Network Security | Self study |
 | 14.11.2024 | 3 | Network Security, attacks and mitigation | Self Study |
-| ------------- | ------------- | ------------- | ------------- |
+| 16.11.2024 | 5 | Bookingsystem, VSC, ZAP, Docker, PS | First ZAP report |
+| 18.11.2024 | 1 | Bookingsystem, phase 1 | Phase 1 task |
+| 19.11.2024 | 1 | Bookingsystem, phase 1 | Phase 1 task |
+| 20.11.2024 | 2 | Bookingsystem, phase 1 | Phase 1 task, First Registration report |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |

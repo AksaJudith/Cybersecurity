@@ -19,7 +19,7 @@ app.post('/register', async (c) => {
     
     try {
         await client.queryObject(`
-            INSERT INTO abc123_users (username, password, email, role, age, pseudonym, consent)
+            INSERT INTO abc123_users (username, password_hash, email, role, birthdate, pseudonym, consent)
             VALUES ($1, $2, $3, 'reserver', $4, $5, TRUE)
             `, username, hashedPassword, email, age, `pseudonym_${username}`);
             
