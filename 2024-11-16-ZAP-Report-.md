@@ -364,6 +364,7 @@ The application appears to be a modern web application. If you need to explore i
   * Method: `GET`
   * Parameter: ``
   * Attack: ``
+<<<<<<< HEAD
   * Evidence: `<script>
             document.getElementById("registrationForm").addEventListener('submit', async (event) => {
                 event.preventDefault();
@@ -384,12 +385,35 @@ The application appears to be a modern web application. If you need to explore i
                     alert('Registration failed.');
                 }
             });
+=======
+  * Evidence: `<script>
+            document.getElementById("registrationForm").addEventListener('submit', async (event) => {
+                event.preventDefault();
+                const formData = new FormData(event.target);
+                const data = Object.fromEntries(formData.entries());
+
+                const response = await fetch('/register', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                });
+
+                if (response.ok) {
+                    alert('Registration successful!');
+                } else {
+                    alert('Registration failed.');
+                }
+            });
+>>>>>>> 444113bb53f177840d02ceb71d83a8d509a5c28f
         </script>`
   * Other Info: `No links have been found while there are scripts, which is an indication that this is a modern web application.`
 * URL: http://localhost:8000/
   * Method: `GET`
   * Parameter: ``
   * Attack: ``
+<<<<<<< HEAD
   * Evidence: `<script>
             document.getElementById("registrationForm").addEventListener('submit', async (event) => {
                 event.preventDefault();
@@ -410,12 +434,35 @@ The application appears to be a modern web application. If you need to explore i
                     alert('Registration failed.');
                 }
             });
+=======
+  * Evidence: `<script>
+            document.getElementById("registrationForm").addEventListener('submit', async (event) => {
+                event.preventDefault();
+                const formData = new FormData(event.target);
+                const data = Object.fromEntries(formData.entries());
+
+                const response = await fetch('/register', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                });
+
+                if (response.ok) {
+                    alert('Registration successful!');
+                } else {
+                    alert('Registration failed.');
+                }
+            });
+>>>>>>> 444113bb53f177840d02ceb71d83a8d509a5c28f
         </script>`
   * Other Info: `No links have been found while there are scripts, which is an indication that this is a modern web application.`
 * URL: http://localhost:8000/%3Fage=1&email=zaproxy%2540example.com&password=ZAP&username=ZAP
   * Method: `GET`
   * Parameter: ``
   * Attack: ``
+<<<<<<< HEAD
   * Evidence: `<script>
             document.getElementById("registrationForm").addEventListener('submit', async (event) => {
                 event.preventDefault();
@@ -436,6 +483,28 @@ The application appears to be a modern web application. If you need to explore i
                     alert('Registration failed.');
                 }
             });
+=======
+  * Evidence: `<script>
+            document.getElementById("registrationForm").addEventListener('submit', async (event) => {
+                event.preventDefault();
+                const formData = new FormData(event.target);
+                const data = Object.fromEntries(formData.entries());
+
+                const response = await fetch('/register', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                });
+
+                if (response.ok) {
+                    alert('Registration successful!');
+                } else {
+                    alert('Registration failed.');
+                }
+            });
+>>>>>>> 444113bb53f177840d02ceb71d83a8d509a5c28f
         </script>`
   * Other Info: `No links have been found while there are scripts, which is an indication that this is a modern web application.`
 

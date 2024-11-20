@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,4 +28,35 @@
             <button type="submit">Register</button>
         </form>
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Registration</title>
+    <link rel="stylesheet" href="/static/styles.css"> <!-- Link to external CSS -->
+</head>
+<body>
+        <h1>Register</h1>
+        <form action="/register" method="POST">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required><br><br>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required><br><br>
+
+            <label for="birthdate">Birthdate:</label>
+            <input type="date" id="birthdate" name="birthdate" required><br><br>
+
+            <label for="role">Role:</label>
+            <select id="role" name="role">
+                <option value="reserver">Reserver</option>
+                <option value="admin">Administrator</option>
+            </select><br><br>
+            <button type="submit">Register</button>
+        </form>
+</body>
+>>>>>>> 444113bb53f177840d02ceb71d83a8d509a5c28f
 </html>
