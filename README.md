@@ -27,7 +27,7 @@
 | https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_after_fix_Report-.md | Second Register repo | static/styles.css in use | ------------- |
 | https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_after_second_fix_Report-.md | Third Register repo | after fixes | ------------- |
 | 21.11.2024 | 2 | Booking system, phase 1 | Phase 1 task done |
-| ------------- | ------------- | ------------- | ------------- |
+| 21.11.2024 | 1 | Booking system, phase 2 | Phase 2 task, start |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
