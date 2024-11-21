@@ -25,5 +25,11 @@
 | 20.11.2024 | 2 | Bookingsystem, phase 1 | Phase 1 task, First Registration report |
 | https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_page_first_test.md | First Register repo | splitting app.js to routes>register.js | ------------- |
 | https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_after_fix_Report-.md | Second Register repo | static/styles.css in use | ------------- |
+| https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_after_second_fix_Report-.md | Third Register repo | after fixes | ------------- |
+| 21.11.2024 | 2 | Booking system, phase 1 | Phase 1 task done |
+| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
