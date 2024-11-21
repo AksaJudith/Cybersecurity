@@ -4,7 +4,7 @@ import { registerUser } from "./routes/register.js"; // Import register logic
 
 const app = new Hono();
 
-app.use('/static/*', serveStatic({ root: './static' }));
+app.use('/static/*', serveStatic({ root: '.' }));
 
 // Serve the registration form
 app.get('/register', async (c) => { return c.html(await Deno.readTextFile('./views/register.html'));
