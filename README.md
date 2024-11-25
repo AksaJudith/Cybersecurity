@@ -31,7 +31,7 @@
 | 21.11.2024 | 2 | Booking system, phase 1 (took a while to understand and get it done) | Phase 1 task finally done |
 | 21.11.2024 | 1,5 | NIST, pgcrypto, node, PBKDF2 | Study encryption |
 | 21.11.2024 | 1 | Booking system, phase 2 | Phase 2 task, start |
-| ------------- | ------------- | ------------- | ------------- |
+| 25.11.2024 | 2 | Booking system, phase 2 | Phase 2 task done |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
