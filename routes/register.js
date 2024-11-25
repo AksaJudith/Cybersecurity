@@ -35,18 +35,23 @@ export async function registerUser(c) {
         const salt = await bcrypt.genSalt(10);
         const hashedPassword = await bcrypt.hash(password, salt);
         // Insert the new user into the database
-        
         await client.queryArray(
             `INSERT INTO abc123_users (username, password_hash, role, birthdate) VALUES ($1, $2, $3, $4)`,
             [username, hashedPassword, role, birthdate]
         );
+
+        // Success response, redirect to the index page         
+        return c.redirect('/');
+
         // Success response
-        return c.text('User registered successfully!');
-    } catch (error) {
-        if (error instanceof z.ZodError) {
-            // Handle validation errors from Zod
-            return c.text(`Validation Error: ${error.errors.map(e => e.message).join(", ")}`, 400);
-        }
+        //return c.text('User registered successfully!');
+
+
+        } catch (error) {
+            if (error instanceof z.ZodError) {
+                // Handle validation errors from Zod
+                return c.text(`Validation Error: ${error.errors.map(e => e.message).join(", ")}`, 400);
+            }
         console.error(error);
         return c.text('Error during registration', 500);
     }

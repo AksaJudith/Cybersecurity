@@ -11,7 +11,7 @@ const loginSchema = z.object({
 // Helper function to fetch the user by email
 async function getUserByEmail(email) {
     const result = await client.queryArray(
-        `SELECT user_id, username, password_hash FROM zephyr_users WHERE username = $1`,
+        `SELECT user_id, username, password_hash FROM abc123_users WHERE username = $1`,
         [email]
     );
     return result.rows.length > 0 ? result.rows[0] : null;
