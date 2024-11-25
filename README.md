@@ -31,11 +31,11 @@
 | 21.11.2024 | 2 | Booking system, phase 1 (took a while to understand and get it done) | Phase 1 task finally done |
 | 21.11.2024 | 1,5 | NIST, pgcrypto, node, PBKDF2 | Study encryption |
 | 21.11.2024 | 1 | Booking system, phase 2 | Phase 2 task, start |
-| ------------- | First Login repo | ------------- | ------------- |
-| ------------- | Second Login repo | ------------- | ------------- |
-| ------------- | Third login repo | ------------- | ------------- |
-| ------------- | First localhost repo | ------------- | ------------- |
-| ------------- | Last localhost repo | ------------- | ------------- |
+| ------------- | First Login repo | login.js, login.html added and app.js modified | ------------- |
+| ------------- | Second Login repo | app.js modified, adding middleware to set security headers and nosniff | ------------- |
+| ------------- | Third login repo | app.js modified, Content-Security-Policy header added and modified | ------------- |
+| ------------- | First localhost repo | creating index.html file, modified login.js, register.js to redirect back to index page, update routes in app.js | ------------- |
+| ------------- | Last localhost repo | editing files, small modifications | ------------- |
 | 25.11.2024 | 2 | Booking system, phase 2 | Phase 2 task done |
 | 25.11.2024 | 2 | Week 3 Material | Read all materials |
 | 25.11.2024 | 1 | Phase 3 code update | Phase 3 task, start |
