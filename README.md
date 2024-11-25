@@ -31,14 +31,16 @@
 | 21.11.2024 | 2 | Booking system, phase 1 (took a while to understand and get it done) | Phase 1 task finally done |
 | 21.11.2024 | 1,5 | NIST, pgcrypto, node, PBKDF2 | Study encryption |
 | 21.11.2024 | 1 | Booking system, phase 2 | Phase 2 task, start |
-| ------------- | First Login repo | login.js, login.html added and app.js modified | ------------- |
-| ------------- | Second Login repo | app.js modified, adding middleware to set security headers and nosniff | ------------- |
-| ------------- | Third login repo | app.js modified, Content-Security-Policy header added and modified | ------------- |
-| ------------- | First localhost repo | creating index.html file, modified login.js, register.js to redirect back to index page, update routes in app.js | ------------- |
-| ------------- | Last localhost repo | editing files, small modifications | ------------- |
+| https://github.com/AksaJudith/Cybersecurity/blob/main/login_severalAttack_firstReport.md | First Login repo | login.js, login.html added and app.js modified | ------------- |
+| https://github.com/AksaJudith/Cybersecurity/blob/main/Login_SecondReport.md | Second Login repo | app.js modified, adding middleware to set security headers and nosniff | ------------- |
+| https://github.com/AksaJudith/Cybersecurity/blob/main/Login_thirdReport.md | Third login repo | app.js modified, Content-Security-Policy header added and modified | ------------- |
+| https://github.com/AksaJudith/Cybersecurity/blob/main/FirstRound_localhost_report.md | First localhost repo | creating index.html file, modified login.js, register.js to redirect back to index page, update routes in app.js | ------------- |
+| https://github.com/AksaJudith/Cybersecurity/blob/main/LastRound_localhost_Report-.md | Last localhost repo | editing files, small modifications | ------------- |
 | 25.11.2024 | 2 | Booking system, phase 2 | Phase 2 task done |
 | 25.11.2024 | 2 | Week 3 Material | Read all materials |
 | 25.11.2024 | 1 | Phase 3 code update | Phase 3 task, start |
+| 25.11.2024 | 0,5 | Week 4 Tutorials, Panopto | Online videos |
+| 25.11.2024 | 1,5 | Cybersecurity lecture | Online lecture |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
@@ -50,5 +52,4 @@
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| Total hours | 48 | Portswigger labs | 6 |
+| Total hours | 50 | Portswigger labs | 6 |
