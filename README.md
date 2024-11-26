@@ -42,14 +42,9 @@
 | 25.11.2024 | 0,5 | Week 4 Tutorials, Panopto | Online videos |
 | 25.11.2024 | 1,5 | Cybersecurity lecture | Online lecture |
 | 26.11.2024 | 3 | Phase 3 report | https://github.com/AksaJudith/Cybersecurity/blob/main/Phase3.md |
+| 26.11.2024 | 1 | Portswigger, Cross-site scripting | Lab: Reflected XSS into HTML context with nothing encoded |
+| 26.11.2024 | 1 | Portswigger, Cross-site scripting | Lab: Stored XSS into HTML context with nothing encoded |
+| 26.11.2024 | 1,5 | CCNA: Cybersecurity Essentials course | Introduction and Module 1 |
+| 26.11.2024 | 0,5 | CCNA: Cybersecurity Essentials course | Module 1 quiz done |
 | ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| Total hours | 57 | Portswigger labs | 6 |
+| Total hours | 61 | Portswigger labs | 8 |

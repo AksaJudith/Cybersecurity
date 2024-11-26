@@ -28,6 +28,6 @@
 | ------------- | ------------- |
 | What is wrong? | The application behaves inconsistently for different User-Agent headers, potentially exposing functionality or vulnerabilities specific to certain clients. |
 | How did I find it? | Detected in 48 instances in the ZAP report, showing varying responses for different User-Agent strings. |
-| How should it work? / What should be fixed? | Ensure consistent responses for all User-Agent strings. Avoid revealing unnecessary information or different behaviors that could aid attackers in fingerprinting your application. |
+| How should it work? / What should be fixed? | Ensure consistent responses for all User-Agent strings. Avoid revealing unnecessary information or different behaviors that could aid attackers in fingerprinting the application. |
 
 https://github.com/AksaJudith/Cybersecurity/blob/main/Phase3_first_Report-.md
