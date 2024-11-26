@@ -25,17 +25,17 @@
 | 19.11.2024 | 1 | Bookingsystem, phase 1 | Phase 1 task |
 | 20.11.2024 | 1,5 | Cybersecurity lecture | Online lecture |
 | 20.11.2024 | 2 | Bookingsystem, phase 1 | Phase 1 task, First Registration report |
-| https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_page_first_test.md | First Register repo | splitting app.js to routes>register.js | ------------- |
-| https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_after_fix_Report-.md | Second Register repo | static/styles.css in use | ------------- |
-| https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_after_second_fix_Report-.md | Third Register repo | after fixes | ------------- |
+| 20.11.2024 | 0 | First Register repo, splitting app.js to routes>register.js | https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_page_first_test.md |
+| 20.11.2024 | 0 | Second Register repo, static/styles.css in use | https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_after_fix_Report-.md |
+| 20.11.2024 | 0 | Third Register repo, after fixes | https://github.com/AksaJudith/Cybersecurity/blob/main/Registration_after_second_fix_Report-.md |
 | 21.11.2024 | 2 | Booking system, phase 1 (took a while to understand and get it done) | Phase 1 task finally done |
 | 21.11.2024 | 1,5 | NIST, pgcrypto, node, PBKDF2 | Study encryption |
 | 21.11.2024 | 1 | Booking system, phase 2 | Phase 2 task, start |
-| https://github.com/AksaJudith/Cybersecurity/blob/main/login_severalAttack_firstReport.md | First Login repo | login.js, login.html added and app.js modified | ------------- |
-| https://github.com/AksaJudith/Cybersecurity/blob/main/Login_SecondReport.md | Second Login repo | app.js modified, adding middleware to set security headers and nosniff | ------------- |
-| https://github.com/AksaJudith/Cybersecurity/blob/main/Login_thirdReport.md | Third login repo | app.js modified, Content-Security-Policy header added and modified | ------------- |
-| https://github.com/AksaJudith/Cybersecurity/blob/main/FirstRound_localhost_report.md | First localhost repo | creating index.html file, modified login.js, register.js to redirect back to index page, update routes in app.js | ------------- |
-| https://github.com/AksaJudith/Cybersecurity/blob/main/LastRound_localhost_Report-.md | Last localhost repo | editing files, small modifications | ------------- |
+| 25.11.2024 | 0 | First Login repo, login.js, login.html added and app.js modified | https://github.com/AksaJudith/Cybersecurity/blob/main/login_severalAttack_firstReport.md |
+| 25.11.2024 | 0 | Second Login repo, app.js modified, adding middleware to set security headers and nosniff | https://github.com/AksaJudith/Cybersecurity/blob/main/Login_SecondReport.md |
+| 25.11.2024 | 0 | Third login repo, app.js modified, Content-Security-Policy header added and modified | https://github.com/AksaJudith/Cybersecurity/blob/main/Login_thirdReport.md |
+| 25.11.2024 | 0 | First localhost repo, creating index.html file, modified login.js, register.js to redirect back to index page, update routes in app.js | https://github.com/AksaJudith/Cybersecurity/blob/main/FirstRound_localhost_report.md |
+| 25.11.2024 | 0 | Last localhost repo, editing files, small modifications | https://github.com/AksaJudith/Cybersecurity/blob/main/LastRound_localhost_Report-.md |
 | 25.11.2024 | 2 | Booking system, phase 2 | Phase 2 task done |
 | 25.11.2024 | 2 | Week 3 Material | Read all materials |
 | 25.11.2024 | 1 | Phase 3 code update | Phase 3 task, start |
