@@ -41,7 +41,7 @@
 | 25.11.2024 | 1 | Phase 3 code update | Phase 3 task, start |
 | 25.11.2024 | 0,5 | Week 4 Tutorials, Panopto | Online videos |
 | 25.11.2024 | 1,5 | Cybersecurity lecture | Online lecture |
-| 26.11.2024 | 2 | Phase 3 report | https://github.com/AksaJudith/Cybersecurity/blob/main/Phase3.md |
+| 26.11.2024 | 3 | Phase 3 report | https://github.com/AksaJudith/Cybersecurity/blob/main/Phase3.md |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
@@ -52,4 +52,4 @@
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
-| Total hours | 54 | Portswigger labs | 6 |
+| Total hours | 57 | Portswigger labs | 6 |
