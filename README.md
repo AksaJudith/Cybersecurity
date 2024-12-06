@@ -46,9 +46,8 @@
 | 26.11.2024 | 1 | Portswigger, Cross-site scripting | Lab: Stored XSS into HTML context with nothing encoded |
 | 26.11.2024 | 1,5 | CCNA: Cybersecurity Essentials course | Introduction and Module 1 |
 | 26.11.2024 | 0,5 | CCNA: Cybersecurity Essentials course | Module 1 quiz done |
-| 30.11.2024 | 1 | CCNA: Cybersecurity Essentials course | Module 2 material |
-| 1.12.2024 |  1 | CCNA: Cybersecurity Essentials course | Module 3 material |
-| 2.12.2024 |  1 | CCNA: Cybersecurity Essentials course | Module 4 material |
+| 30.11.2024 | 2 | CCNA: Cybersecurity Essentials course | Module 2 material and quiz done |
+| 2.12.2024 |  1,5 | CCNA: Cybersecurity Essentials course | Module 3 material |
 | 3.12.2024 | 1,5 | Cybersecurity lecture, recording | Online lecture |
 | 3.12.2024 | 4 | Week 6 Material and GDPR | Read all materials and more about GDPR |
 | 5.12.2024 | 3 | Phase 4,Modifying the code, testing and answering the questions | https://github.com/AksaJudith/Cybersecurity/blob/main/Phase4.md |
@@ -57,5 +56,5 @@
 | 5.12.2024 | 2 | Portswigger, SQL injection, reading material and doing lab | Lab: SQL injection with filter bypass via XML encoding |
 | 6.12.2024 | 2 | Portswigger, SSRF, reading material and doing lab | Lab: SSRF with blacklist-based input filter |
 | 6.12.2024 | 2 | Portswigger, Authentication vulnerabilities, reading material and doing lab | Lab: Brute-forcing a stay-logged-in cookie |
-| 6.12.2024 | 3 | Phase 5, Word report | Word report |
+| 6.12.2024 | 2,5 | Phase 5, Word report | Word report |
 | Total hours | 85 | Portswigger labs | 12 |
