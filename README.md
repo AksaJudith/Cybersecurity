@@ -56,5 +56,5 @@
 | 5.12.2024 | 2 | Portswigger, SQL injection, reading material and doing lab | Lab: SQL injection with filter bypass via XML encoding |
 | 6.12.2024 | 2 | Portswigger, SSRF, reading material and doing lab | Lab: SSRF with blacklist-based input filter |
 | 6.12.2024 | 2 | Portswigger, Authentication vulnerabilities, reading material and doing lab | Lab: Brute-forcing a stay-logged-in cookie |
-| 6.12.2024 | 2,5 | Phase 5, Word report | Word report |
-| Total hours | 85 | Portswigger labs | 12 |
+| 6.12.2024 | 3,5 | Phase 5, Word report | Word report |
+| Total hours | 86 | Portswigger labs | 12 |
