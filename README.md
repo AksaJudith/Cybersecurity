@@ -58,4 +58,4 @@
 | 6.12.2024 | 2 | Portswigger, SSRF, reading material and doing lab | Lab: SSRF with blacklist-based input filter |
 | 6.12.2024 | 2 | Portswigger, Authentication vulnerabilities, reading material and doing lab | Lab: Brute-forcing a stay-logged-in cookie |
 | 6.12.2024 | 3 | Phase 5, Word report | Word report |
-| Total hours | 83 | Portswigger labs | 12 |
+| Total hours | 85 | Portswigger labs | 12 |
