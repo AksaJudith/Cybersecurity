@@ -151,12 +151,30 @@ async function handler(req) {
 
     // Route: Account page
     if (url.pathname === "/account" && req.method === "GET") {
+        const session = getSession(req); // Assuming getSession retrieves session data
+
+        if (!session || !session.username) {
+            return new Response(null, {
+                status: 302,
+                headers: {
+                    Location: "/login"
+                }
+            });
+        }
         return await serveStaticFile("./views/account.html", "text/html");
     }
 
     // Route: Account info
     if (url.pathname === "/accountInfo" && req.method === "GET") {
         const session = getSession(req);
+        if (!session || !session.username) {
+            return new Response(null, {
+                status: 302,
+                headers: {
+                    Location: "/login"
+                }
+            });
+        }
         return await getAccountInfo(session.username);
     }
 
