@@ -2,6 +2,13 @@ document.addEventListener("DOMContentLoaded", async () => {
     try {
         // Fetch account information from the server
         const response = await fetch("/accountInfo");
+
+        if (response.redirected) {
+            // Redirect to login if not authenticated
+            window.location.href = response.url;
+            return;
+        }
+
         if (!response.ok) {
             throw new Error("Failed to fetch account information");
         }
